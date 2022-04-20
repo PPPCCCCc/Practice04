@@ -14,8 +14,6 @@ public class Ex08 {
 					break;
 				}
 			}
-		}
-		for (int i = 0; i < 6; i++) {
 			System.out.print(intArray[i] + "\t");
 		}
 	}
